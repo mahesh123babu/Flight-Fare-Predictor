@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(188, 184, 184);
+    text-align: center;
+}
+
+.input_text{
+    height: 35px;
+    width: 200px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.input_text:hover{
+    cursor: pointer;
+    background-color: rgb(194, 194, 214);
+}
+
+.footer{
+    margin: 0;
+    padding: 0;
+}
+
+footer{
+    background-color: darksalmon;
+}
+
+.fare-text{
+    color: white;
+    font-family: Monaco;
+}
+
+.card-title{
+    font-family: serif;
+}
+
+.flight_text{
+    color:rgb(179, 142, 73);
+}
+
+.flight_text2{
+    color: rgb(87, 87, 197);
+}
+
+a span{
+    font-size: 2.5em;
+}
